@@ -1,4 +1,4 @@
-# 💳 Detecção de Fraudes em Cartão de Crédito
+# Detecção de Fraudes em Cartão de Crédito
 
 Projeto de Machine Learning utilizando Random Forest, SMOTE e ajuste de limiar (threshold) para identificar transações fraudulentas em um conjunto de dados real de cartões de crédito.
 
@@ -32,9 +32,3 @@ Além disso, o projeto serve como demonstração prática de habilidades em Ciê
 
 Este projeto está disponível como notebook Jupyter (.ipynb).  
 Você pode cloná-lo localmente ou abrir diretamente no Google Colab.
-
-```
-### Clone este repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-```
